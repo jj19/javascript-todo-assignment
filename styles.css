@@ -1,0 +1,33 @@
+.roboto-100-italic {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-style: italic;
+}
+.roboto-400 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+.roboto-500 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+}
+.roboto-600 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+}
+.dosis {
+	font-family: Dosis, sans-serif;
+}
+
+.todoItem {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+}
+
+.todoItemDeleted {
+	font-family: Roboto, sans-serif;
+	color: rgb(175, 36, 36);
+	font-style: italic;
+	font-weight: 100;
+	text-decoration: line-through;
+}
